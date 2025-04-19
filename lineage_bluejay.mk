@@ -42,7 +42,7 @@ TARGET_PREBUILT_LAWNCHAIR_LAUNCHER := true
 # disable/enable blur support, default is false
 TARGET_ENABLE_BLUR := true
 
-RISING_MAINTAINER=EliteDarkKaiser
+RISING_MAINTAINER=objecting_
     
 # Use Scudo instead of Jemalloc
 PRODUCT_USE_SCUDO := true
