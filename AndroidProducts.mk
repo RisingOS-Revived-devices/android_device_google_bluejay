@@ -21,5 +21,4 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lineage_bluejay.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_bluejay-trunk_staging-userdebug
     lineage_bluejay-userdebug
