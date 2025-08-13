@@ -30,12 +30,19 @@ TARGET_PREBUILT_BCR := true
 
 # Gms 
 WITH_GMS := true
+TARGET_SUPPORTS_QUICK_TAP := true
 
 # disable/enable blur support, default is false
 TARGET_ENABLE_BLUR := true
 
+# Ship Pixel Launcher
+TARGET_DEFAULT_PIXEL_LAUNCHER := true
+
+# Lawnchair Prebuilt
+TARGET_PREBUILT_LAWNCHAIR_LAUNCHER := true
+
 RISING_MAINTAINER=EliteDarkKaiser
-RISING_VERSION := 8.0
+RISING_VERSION := 8.1
     
 # Use Scudo instead of Jemalloc
 PRODUCT_USE_SCUDO := true
